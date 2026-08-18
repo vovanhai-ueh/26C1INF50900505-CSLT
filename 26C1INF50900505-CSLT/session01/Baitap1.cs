@@ -14,5 +14,10 @@ namespace _26C1INF50900505_CSLT.session01
             Console.WriteLine("Ciao mondo");
             Console.WriteLine(6 + 7);
         }
+
+        void bar()
+        {
+
+        }
     }
 }
