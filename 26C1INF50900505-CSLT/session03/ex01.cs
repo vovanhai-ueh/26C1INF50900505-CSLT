@@ -6,7 +6,7 @@ namespace _26C1INF50900505_CSLT.session03
 {
     internal class ex01
     {
-        public static void Main(string[] args)
+        public static void Main11(string[] args)
         {
             /*char a ='a';
             char A = 'A';
