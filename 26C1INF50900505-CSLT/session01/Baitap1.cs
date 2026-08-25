@@ -6,7 +6,7 @@ namespace _26C1INF50900505_CSLT.session01
 {
     internal class Baitap1
     {
-        private static void Main(string[] args)
+        private static void Main1(string[] args)
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine(" XIn Chao pakon");
